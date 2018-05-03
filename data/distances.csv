@@ -1,11 +1,5 @@
-﻿Distance,Store A,Store B,Store C
-Person D,7,30,11
-Person E,13,10,18
-Person F,9,8,7
-Store A,0,24,5
-Store B,24,0,10
-Store C,5,10,0
-,,,
-,,,
-,,,
-,,,
+﻿Distance,Home,Woodmans,Trader Joe's,Madison Fresh Market
+Home,0,17,11,9
+Woodmans,17,0,15,12
+Trader Joe's,11,15,0,5
+Madison Fresh Market,9,12,5,0
