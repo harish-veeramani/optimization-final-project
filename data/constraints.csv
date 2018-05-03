@@ -1,11 +1,11 @@
-﻿,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Fiber, total dietary","Sugars, total",Minerals,"Calcium, Ca","Iron, Fe","Magnesium, Mg","Phosphorus, P","Potassium, K","Sodium, Na","Zinc, Zn",Vitamins,"Vitamin C, total ascorbic acid",Thiamin,Riboflavin,Niacin,Vitamin B-6
-,kcal,g,g,g,g,g,,mg,mg,mg,mg,mg,mg,mg,,mg,mg,mg,mg,mg
-Child,,,,,,,,,,,,,,,,,,,,
-Minimum Daily Allowance,"1,600",19,44,130,25,0,,1000,10,110,500,3800,1.2,5,,25,0.6,0.6,8,0.6
-Maximum,"2,100",57,62,188,25,10.5,,2500,40,130,3000,3800,1.9,12,,650,0.6,0.6,15,40
-Teenager,,,,,,,,,,,,,,,,,,,,
-Minimum Daily Allowance,"2,400",52,56,130,38,0,,1300,11,350,1250,4700,1.5,11,,75,1.2,1.3,16,1.3
-Maximum Allowed,"2,800",156,97,188,38,38,,3000,45,410,4000,4700,2.3,34,,1800,1.2,1.3,30,80
-Adult,,,,,,,,,,,,,,,,,,,,
-Minimum Daily Allowance,"2,500",56,56,130,38,0,,1000,8,350,700,4700,1.5,11,,90,1.2,1.3,16,1.3
-Maximum,"2,500",196,97,188,38,38,,2500,45,420,4000,4700,2.3,40,,2000,1.2,1.3,35,100
+	Energy	Protein	Total lipid (fat)	"Carbohydrate, by difference"	"Fiber, total dietary"	"Sugars, total"	Minerals	"Calcium, Ca"	"Iron, Fe"	"Magnesium, Mg"	"Phosphorus, P"	"Potassium, K"	"Sodium, Na"	"Zinc, Zn"	Vitamins	"Vitamin C, total ascorbic acid"	Thiamin	Riboflavin	Niacin	Vitamin B-6
+	kcal	g	g	g	g	g		mg	mg	mg	mg	mg	mg	mg		mg	mg	mg	mg	mg
+Child																				
+Minimum Daily Allowance	"1,600"	19	44	130	25	0		1000	10	110	500	3800	1.2	5		25	0.6	0.6	8	0.6
+Maximum	"2,100"	57	62	188	40	10.5		2500	40	130	3000	3800	1.9	12		650	2	2	15	40
+Teenager																				
+Minimum Daily Allowance	"2,400"	52	56	130	38	0		1300	11	350	1250	4700	1.5	11		75	1.2	1.3	16	1.3
+Maximum Allowed	"2,800"	156	97	188	40	38		3000	45	410	4000	4700	2.3	34		1800	2	2	30	80
+Adult																				
+Minimum Daily Allowance	"2,500"	56	56	130	38	0		1000	8	350	700	4700	1.5	11		90	1.2	1.3	16	1.3
+Maximum	"2,500"	196	97	188	40	38		2500	45	420	4000	4700	2.3	40		2000	2	2	35	100
