@@ -1,153 +1,153 @@
-﻿,,Scaling Factor to Unit Size,Unit Price at Store A,Unit Price at Store B,Unit Price at Store C,Unit Price A In Season,Unit Price B In Season,Unit Price C In Season
-Butter,Dairy,1.13,1,2,3,1,2,3
-Cheddar Cheese,Dairy,2.27,1,2,3,1,2,3
-Gouda Cheese,Dairy,,1,2,3,1,2,3
-Mozzarella Cheese,Dairy,,1,2,3,1,2,3
-Muenster Cheese,Dairy,,1,2,3,1,2,3
-Parmesan Cheese,Dairy,,1,2,3,1,2,3
-American Cheese,Dairy,,1,2,3,1,2,3
-Swiss Cheese,Dairy,,1,2,3,1,2,3
-Eggnog,Dairy,,1,2,3,1,2,3
-1% Milk,Dairy,,1,2,3,1,2,3
-Vanilla yogurt,Dairy,,1,2,3,1,2,3
-Egg,Dairy,,1,2,3,1,2,3
-Chobani vanilla Greek yogurt,Dairy,,1,2,3,1,2,3
-Allspice,Spice,,2,1,3,2,1,3
-Cardamom,Spice,,2,1,3,2,1,3
-Basil,Spice,,2,1,3,2,1,3
-Cinnamon,Spice,,2,1,3,2,1,3
-Coriander,Spice,,2,1,3,2,1,3
-Garlic,Spice,,2,1,3,2,1,3
-Nutmeg,Spice,,2,1,3,2,1,3
-Paprika,Spice,,2,1,3,2,1,3
-Parsley,Spice,,2,1,3,2,1,3
-Black Pepper,Spice,,2,1,3,2,1,3
-Rosemary,Spice,,2,1,3,2,1,3
-Thyme,Spice,,2,1,3,2,1,3
-Sage,Spice,,2,1,3,2,1,3
-Salt,Spice,,2,1,3,2,1,3
-Vinegar,Spice,,2,1,3,2,1,3
-Vanilla,Spice,,2,1,3,2,1,3
-Chicken,Meat,,4,6,7,4,6,7
-Duck,Meat,,4,6,7,4,6,7
-Turkey,Meat,,4,6,7,4,6,7
-Apple babyfood,Baby food,,5,5,5,5,5,5
-Bananas babyfood,Baby food,,5,5,5,5,5,5
-Infant formula,Baby food,,5,5,5,5,5,5
-Thousand island salad dressing,Dressing,,1,2,3,1,2,3
-Italian dressing,Dressing,,1,2,3,1,2,3
-Mayo,Dressing,,1,2,3,1,2,3
-Olive oil,Dressing,,1,2,3,1,2,3
-Gravy,Dressing,,1,2,3,1,2,3
-Tomato bisque soup,Soup,,1,2,3,1,2,3
-Clam chowder,Soup,,1,2,3,1,2,3
-Pesto sauce,Dressing,,1,2,3,1,2,3
-Worcestershire sauce,Dressing,,1,2,3,1,2,3
-Chicken broth,Soup,,1,2,3,1,2,3
-Cream of chicken soup,Soup,,1,2,3,1,2,3
-Chicken noodle soup,Soup,,1,2,3,1,2,3
-Sandwich ham,Meat,,4,6,7,4,6,7
-Pastrami,Meat,,4,6,7,4,6,7
-Sandwich salami,Meat,,4,6,7,4,6,7
-Sandwich bologna,Meat,,4,6,7,4,6,7
-Cheerios,Grain,,2,1,0.5,2,1,0.5
-Fruit and cream oatmeal,Grain,,2,1,0.5,2,1,0.5
-Dinosaur eggs oatmeal,Grain,,2,1,0.5,2,1,0.5
-Apples,Fruit,,4,5,6,2,3,4
-Apricots,Fruit,,4,5,6,2,3,4
-Bananas,Fruit,,4,5,6,2,3,4
-Blackberries,Fruit,,4,5,6,2,3,4
-Avocadoes,Fruit,,4,5,6,2,3,4
-Blueberries,Fruit,,4,5,6,2,3,4
-Cherries,Fruit,,4,5,6,2,3,4
-Cranberries,Fruit,,4,5,6,2,3,4
-Grapes,Fruit,4.53,4,5,6,2,3,4
-Kiwi,Fruit,,4,5,6,2,3,4
-Florida oranges,Fruit,,4,5,6,2,3,4
-Papayas,Fruit,,4,5,6,2,3,4
-Pears,Fruit,,4,5,6,2,3,4
-Plums,Fruit,,4,5,6,2,3,4
-Raisins,Fruit,,4,5,6,2,3,4
-Raspberries,Fruit,,4,5,6,2,3,4
-Strawberries,Fruit,,4,5,6,2,3,4
-Watermelon,Fruit,,4,5,6,2,3,4
-Pineapples,Fruit,,4,5,6,2,3,4
-Pork,Meat,,4,6,7,4,6,7
-Canadian bacon,Meat,,4,6,7,4,6,7
-Christmas ham,Meat,,4,6,7,4,6,7
-Bacon,Meat,,4,6,7,4,6,7
-Artichokes,Vegetable,,4,2,3,2,1,1.5
-Asparagus,Vegetable,,4,2,3,2,1,1.5
-Bamboo shoots,Vegetable,,4,2,3,2,1,1.5
-Kidney beans,Vegetable,,4,2,3,2,1,1.5
-Lima beans,Vegetable,,4,2,3,2,1,1.5
-Navy beans,Vegetable,,4,2,3,2,1,1.5
-Beets,Vegetable,,4,2,3,2,1,1.5
-Raw broccoli,Vegetable,,4,2,3,2,1,1.5
-Cooked broccoli,Vegetable,,4,2,3,2,1,1.5
-Raw cabbage,Vegetable,,4,2,3,2,1,1.5
-Raw carrots,Vegetable,,4,2,3,2,1,1.5
-Cooked carrots,Vegetable,,4,2,3,2,1,1.5
-Raw celery,Vegetable,,4,2,3,2,1,1.5
-Sweet corn,Vegetable,1.43,4,2,3,2,1,1.5
-Cooked sweet corn,Vegetable,,4,2,3,2,1,1.5
-Cucumber,Vegetable,2.01,4,2,3,2,1,1.5
-Garlic,Vegetable,,4,2,3,2,1,1.5
-Kale,Vegetable,,4,2,3,2,1,1.5
-Green leaf lettuce,Vegetable,,4,2,3,2,1,1.5
-Mushrooms,Vegetable,,4,2,3,2,1,1.5
-Raw okra,Vegetable,,4,2,3,2,1,1.5
-Raw onions,Vegetable,,4,2,3,2,1,1.5
-Fresh parsley,Vegetable,,4,2,3,2,1,1.5
-Green peas,Vegetable,,4,2,3,2,1,1.5
-Raw potatoes,Vegetable,,4,2,3,2,1,1.5
-Pumpkin,Vegetable,,4,2,3,2,1,1.5
-Radishes,Vegetable,,4,2,3,2,1,1.5
-Rutabagas,Vegetable,,4,2,3,2,1,1.5
-Sauerkraut,Vegetable,,4,2,3,2,1,1.5
-Kelp seaweed,Vegetable,,4,2,3,2,1,1.5
-Spinach,Vegetable,,4,2,3,2,1,1.5
-Summer squash,Vegetable,,4,2,3,2,1,1.5
-Zucchini,Vegetable,,4,2,3,2,1,1.5
-Sweet potato,Vegetable,,4,2,3,2,1,1.5
-Taro,Vegetable,,4,2,3,2,1,1.5
-Tomatoes,Vegetable,,4,2,3,2,1,1.5
-Turnips,Vegetable,,4,2,3,2,1,1.5
-Potato pancakes,Vegetable,,4,2,3,2,1,1.5
-Jalapeno peppers,Vegetable,,4,2,3,2,1,1.5
-Banana peppers,Vegetable,,4,2,3,2,1,1.5
-Almonds,Nut,,1,0.5,0.25,1,0.5,0.25
-Cashews,Nut,,1,0.5,0.25,1,0.5,0.25
-Macadamia nuts,Nut,,1,0.5,0.25,1,0.5,0.25
-Pecans,Nut,,1,0.5,0.25,1,0.5,0.25
-Pistachio nuts,Nut,,1,0.5,0.25,1,0.5,0.25
-Walnuts,Nut,,1,0.5,0.25,1,0.5,0.25
-Ground beef,Nut,,1,0.5,0.25,1,0.5,0.25
-Beef steak,Meat,,4,6,7,4,6,7
-Beef sausage,Meat,,4,6,7,4,6,7
-Beer,Alcohol,,2,3,4,2,3,4
-Bass fish,Fish,,4,6,7,4,6,7
-Soy milk,Soy,,4,6,7,4,6,7
-Carp fish,Fish,,4,6,7,4,6,7
-Cod,Fish,,4,6,7,4,6,7
-Salmon,Fish,,4,6,7,4,6,7
-Baked beans,Vegetable,,4,2,3,2,1,1.5
-Peanut butter,Nut,,1,0.5,0.25,1,0.5,0.25
-Tofu,Tofu,,4,2,3,2,1,1.5
-Egg bagels,Grain,,2,1,0.5,2,1,0.5
-Brown bread,Grain,,2,1,0.5,2,1,0.5
-Banana bread,Grain,,2,1,0.5,2,1,0.5
-Chocolate cake,Sweet,,3,5,7,3,5,7
-Chocolate chip cookies,Sweet,,3,5,7,3,5,7
-Cheese crackers,Grain,,2,1,0.5,2,1,0.5
-Apple pie,Sweet,,3,5,7,3,5,7
-Cinnamon rolls,Sweet,,3,5,7,3,5,7
-Marshmallows,Sweet,,3,5,7,3,5,7
-Tapioca pudding,Sweet,,3,5,7,3,5,7
-Breyers ice cream,Sweet,,3,5,7,3,5,7
-60% dark chocolate,Sweet,,3,5,7,3,5,7
-White rice,Grain,,2,1,0.5,2,1,0.5
-Whole grain wheat flour,Grain,,2,1,0.5,2,1,0.5
-Egg noodles,Grain,,2,1,0.5,2,1,0.5
-Plain pasta,Grain,,2,1,0.5,2,1,0.5
-Hamburger,Meat,,4,6,7,4,6,7
+		Scaling Factor to Unit Size	Unit Price at Store A	Unit Price at Store B	Unit Price at Store C	Unit Price A In Season	Unit Price B In Season	Unit Price C In Season
+Beer	Alcohol		2	3	4	2	3	4
+Apple babyfood	Baby food		5	5	5	5	5	5
+Bananas babyfood	Baby food		5	5	5	5	5	5
+Infant formula	Baby food		5	5	5	5	5	5
+Butter	Dairy	1.13	1	2	3	1	2	3
+Cheddar Cheese	Dairy	2.27	1	2	3	1	2	3
+Gouda Cheese	Dairy		1	2	3	1	2	3
+Mozzarella Cheese	Dairy		1	2	3	1	2	3
+Muenster Cheese	Dairy		1	2	3	1	2	3
+Parmesan Cheese	Dairy		1	2	3	1	2	3
+American Cheese	Dairy		1	2	3	1	2	3
+Swiss Cheese	Dairy		1	2	3	1	2	3
+Eggnog	Dairy		1	2	3	1	2	3
+1% Milk	Dairy		1	2	3	1	2	3
+Vanilla yogurt	Dairy		1	2	3	1	2	3
+Egg	Dairy		1	2	3	1	2	3
+Chobani vanilla Greek yogurt	Dairy		1	2	3	1	2	3
+Thousand island salad dressing	Dressing		1	2	3	1	2	3
+Italian dressing	Dressing		1	2	3	1	2	3
+Mayo	Dressing		1	2	3	1	2	3
+Olive oil	Dressing		1	2	3	1	2	3
+Gravy	Dressing		1	2	3	1	2	3
+Pesto sauce	Dressing		1	2	3	1	2	3
+Worcestershire sauce	Dressing		1	2	3	1	2	3
+Bass fish	Fish		4	6	7	4	6	7
+Carp fish	Fish		4	6	7	4	6	7
+Cod	Fish		4	6	7	4	6	7
+Salmon	Fish		4	6	7	4	6	7
+Apples	Fruit		4	5	6	2	3	4
+Apricots	Fruit		4	5	6	2	3	4
+Bananas	Fruit		4	5	6	2	3	4
+Blackberries	Fruit		4	5	6	2	3	4
+Avocadoes	Fruit		4	5	6	2	3	4
+Blueberries	Fruit		4	5	6	2	3	4
+Cherries	Fruit		4	5	6	2	3	4
+Cranberries	Fruit		4	5	6	2	3	4
+Grapes	Fruit	4.53	4	5	6	2	3	4
+Kiwi	Fruit		4	5	6	2	3	4
+Florida oranges	Fruit		4	5	6	2	3	4
+Papayas	Fruit		4	5	6	2	3	4
+Pears	Fruit		4	5	6	2	3	4
+Plums	Fruit		4	5	6	2	3	4
+Raisins	Fruit		4	5	6	2	3	4
+Raspberries	Fruit		4	5	6	2	3	4
+Strawberries	Fruit		4	5	6	2	3	4
+Watermelon	Fruit		4	5	6	2	3	4
+Pineapples	Fruit		4	5	6	2	3	4
+Cheerios	Grain		2	1	0.5	2	1	0.5
+Fruit and cream oatmeal	Grain		2	1	0.5	2	1	0.5
+Dinosaur eggs oatmeal	Grain		2	1	0.5	2	1	0.5
+Egg bagels	Grain		2	1	0.5	2	1	0.5
+Brown bread	Grain		2	1	0.5	2	1	0.5
+Banana bread	Grain		2	1	0.5	2	1	0.5
+Cheese crackers	Grain		2	1	0.5	2	1	0.5
+White rice	Grain		2	1	0.5	2	1	0.5
+Whole grain wheat flour	Grain		2	1	0.5	2	1	0.5
+Egg noodles	Grain		2	1	0.5	2	1	0.5
+Plain pasta	Grain		2	1	0.5	2	1	0.5
+Chicken	Meat		4	6	7	4	6	7
+Duck	Meat		4	6	7	4	6	7
+Turkey	Meat		4	6	7	4	6	7
+Sandwich ham	Meat		4	6	7	4	6	7
+Pastrami	Meat		4	6	7	4	6	7
+Sandwich salami	Meat		4	6	7	4	6	7
+Sandwich bologna	Meat		4	6	7	4	6	7
+Pork	Meat		4	6	7	4	6	7
+Canadian bacon	Meat		4	6	7	4	6	7
+Christmas ham	Meat		4	6	7	4	6	7
+Bacon	Meat		4	6	7	4	6	7
+Beef steak	Meat		4	6	7	4	6	7
+Beef sausage	Meat		4	6	7	4	6	7
+Hamburger	Meat		4	6	7	4	6	7
+Almonds	Nut		1	0.5	0.25	1	0.5	0.25
+Cashews	Nut		1	0.5	0.25	1	0.5	0.25
+Macadamia nuts	Nut		1	0.5	0.25	1	0.5	0.25
+Pecans	Nut		1	0.5	0.25	1	0.5	0.25
+Pistachio nuts	Nut		1	0.5	0.25	1	0.5	0.25
+Walnuts	Nut		1	0.5	0.25	1	0.5	0.25
+Ground beef	Nut		1	0.5	0.25	1	0.5	0.25
+Peanut butter	Nut		1	0.5	0.25	1	0.5	0.25
+Tomato bisque soup	Soup		1	2	3	1	2	3
+Clam chowder	Soup		1	2	3	1	2	3
+Chicken broth	Soup		1	2	3	1	2	3
+Cream of chicken soup	Soup		1	2	3	1	2	3
+Chicken noodle soup	Soup		1	2	3	1	2	3
+Soy milk	Soy		4	6	7	4	6	7
+Allspice	Spice		2	1	3	2	1	3
+Cardamom	Spice		2	1	3	2	1	3
+Basil	Spice		2	1	3	2	1	3
+Cinnamon	Spice		2	1	3	2	1	3
+Coriander	Spice		2	1	3	2	1	3
+Garlic	Spice		2	1	3	2	1	3
+Nutmeg	Spice		2	1	3	2	1	3
+Paprika	Spice		2	1	3	2	1	3
+Parsley	Spice		2	1	3	2	1	3
+Black Pepper	Spice		2	1	3	2	1	3
+Rosemary	Spice		2	1	3	2	1	3
+Thyme	Spice		2	1	3	2	1	3
+Sage	Spice		2	1	3	2	1	3
+Salt	Spice		10	10	10	2	1	3
+Vinegar	Spice		2	1	3	2	1	3
+Vanilla	Spice		2	1	3	2	1	3
+Chocolate cake	Sweet		3	5	7	3	5	7
+Chocolate chip cookies	Sweet		3	5	7	3	5	7
+Apple pie	Sweet		3	5	7	3	5	7
+Cinnamon rolls	Sweet		3	5	7	3	5	7
+Marshmallows	Sweet		3	5	7	3	5	7
+Tapioca pudding	Sweet		3	5	7	3	5	7
+Breyers ice cream	Sweet		3	5	7	3	5	7
+60% dark chocolate	Sweet		3	5	7	3	5	7
+Tofu	Tofu		4	2	3	2	1	1.5
+Artichokes	Vegetable		4	2	3	2	1	1.5
+Asparagus	Vegetable		4	2	3	2	1	1.5
+Bamboo shoots	Vegetable		4	2	3	2	1	1.5
+Kidney beans	Vegetable		4	2	3	2	1	1.5
+Lima beans	Vegetable		4	2	3	2	1	1.5
+Navy beans	Vegetable		4	2	3	2	1	1.5
+Beets	Vegetable		4	2	3	2	1	1.5
+Raw broccoli	Vegetable		4	2	3	2	1	1.5
+Cooked broccoli	Vegetable		4	2	3	2	1	1.5
+Raw cabbage	Vegetable		4	2	3	2	1	1.5
+Raw carrots	Vegetable		4	2	3	2	1	1.5
+Cooked carrots	Vegetable		4	2	3	2	1	1.5
+Raw celery	Vegetable		4	2	3	2	1	1.5
+Sweet corn	Vegetable	1.43	4	2	3	2	1	1.5
+Cooked sweet corn	Vegetable		4	2	3	2	1	1.5
+Cucumber	Vegetable	2.01	4	2	3	2	1	1.5
+Garlic	Vegetable		4	2	3	2	1	1.5
+Kale	Vegetable		4	2	3	2	1	1.5
+Green leaf lettuce	Vegetable		4	2	3	2	1	1.5
+Mushrooms	Vegetable		4	2	3	2	1	1.5
+Raw okra	Vegetable		4	2	3	2	1	1.5
+Raw onions	Vegetable		4	2	3	2	1	1.5
+Fresh parsley	Vegetable		4	2	3	2	1	1.5
+Green peas	Vegetable		4	2	3	2	1	1.5
+Raw potatoes	Vegetable		4	2	3	2	1	1.5
+Pumpkin	Vegetable		4	2	3	2	1	1.5
+Radishes	Vegetable		4	2	3	2	1	1.5
+Rutabagas	Vegetable		4	2	3	2	1	1.5
+Sauerkraut	Vegetable		4	2	3	2	1	1.5
+Kelp seaweed	Vegetable		4	2	3	2	1	1.5
+Spinach	Vegetable		4	2	3	2	1	1.5
+Summer squash	Vegetable		4	2	3	2	1	1.5
+Zucchini	Vegetable		4	2	3	2	1	1.5
+Sweet potato	Vegetable		4	2	3	2	1	1.5
+Taro	Vegetable		4	2	3	2	1	1.5
+Tomatoes	Vegetable		4	2	3	2	1	1.5
+Turnips	Vegetable		4	2	3	2	1	1.5
+Potato pancakes	Vegetable		4	2	3	2	1	1.5
+Jalapeno peppers	Vegetable		4	2	3	2	1	1.5
+Banana peppers	Vegetable		4	2	3	2	1	1.5
+Baked beans	Vegetable		4	2	3	2	1	1.5
